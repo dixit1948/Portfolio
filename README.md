@@ -1,3 +1,3 @@
 # Portfolio
 
-visit this site:
+visit this site: https://dixit-pedhadiya-portfolio.netlify.app/
